@@ -31,11 +31,12 @@ A Multimode fiber, V-number is slightly greater than 2.045 but the number of all
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
+
 ---
 
 ## 🧪 PROCEDURE
 
-1.1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
+1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
 2.	Fix the pre-fitted cylindrical head of the He-Ne laser source on to the surface of the bread board. Confirm the rigid ness of the mount.
 3.	Fix the laser to the fiber coupler mount on to the bread board with base plate orientation of it towards He-Ne laser exit.
 4.	Turn on the He-Ne laser and locate the beam spot on the central portion of the laser-fiber
@@ -48,7 +49,13 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 9.	Observe the bright round shape circular spot with laser speckle pattern on to the screen. Multimode pattern can be refined by screws provided with laser-fiber coupler. Slightly adjusting or moving the screws on the laser mount, view the change in pattern of this multimode spot. After observing the multimode pattern, change multimode fiber optic patch cord with single mode fiber patch cord.
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
+
 ---
+
+## Modes: 
+
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/c09019f7-1ece-448e-84da-af02b825ee6e" />
+
 
 
 ## 📊 OBSERVATION AND CALCULATION
@@ -58,9 +65,10 @@ Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
-<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
-
 
 ---
 ## Tabulation
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/27619354-8a86-4798-bb5b-eb594afbda93" />
+
 ## Result
+The mode characteristics of a optic fiber is found to be 5 modes.
